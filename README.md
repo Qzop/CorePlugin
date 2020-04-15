@@ -1,0 +1,2 @@
+# CorePlugin
+Minecraft core plugin
